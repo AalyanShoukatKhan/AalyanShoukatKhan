@@ -1,292 +1,245 @@
 <div align="center">
 
 <a href="https://github.com/AalyanShoukatKhan">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1E3A8A,100:06B6D4&height=230&section=header&text=Aalyan%20Shoukat%20Khan&fontSize=44&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Backend%20%26%20AI%20Enthusiast&descAlignY=56&descSize=17&animation=twinkling" alt="Aalyan Shoukat Khan header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1E3A8A,100:06B6D4&height=210&section=header&text=Aalyan%20Shoukat%20Khan&fontSize=44&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineering%20%7C%20Backend%20%26%20AI%2FML&descAlignY=56&descSize=17&animation=twinkling" alt="Aalyan Shoukat Khan — Software Engineering, Backend and AI/ML" width="100%"/>
 </a>
 
-<a href="https://github.com/AalyanShoukatKhan">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Backend+Development+%7C+Python+%7C+FastAPI;AI%2FML+Enthusiast+%7C+Applied+Machine+Learning;Building+Practical+Software+%26+AI+Projects;Open+to+Software+Engineering+Internships" alt="Typing introduction"/>
+<a href="https://readme-typing-svg.demolab.com/">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Python+%7C+FastAPI+%7C+Backend+Development;AI%2FML+%7C+Applied+Machine+Learning;APIs+%7C+Databases+%7C+Practical+Software;Open+to+Software+Engineering+Internships" alt="Animated introduction"/>
 </a>
 
 <br/>
 
 <a href="https://github.com/AalyanShoukatKhan">
-  <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Open to work"/>
-</a>
-<a href="https://komarev.com/ghpvc/?username=AalyanShoukatKhan&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS">
-  <img src="https://komarev.com/ghpvc/?username=AalyanShoukatKhan&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
-</a>
-<a href="https://github.com/AalyanShoukatKhan?tab=followers">
-  <img src="https://img.shields.io/github/followers/AalyanShoukatKhan?style=for-the-badge&color=1E40AF&label=FOLLOWERS&logo=github&logoColor=white" alt="GitHub followers"/>
-</a>
-
-</div>
-
-<br/>
-
-👨‍💻 Who I Am
-
-<div align="center">
-
-Software Engineering Student · Backend Developer · AI/ML Enthusiast
-
-<p>
-I enjoy turning ideas into <strong>practical software</strong> — from backend APIs and database-driven applications to hands-on AI/ML experiments.
-</p>
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-🎯 Current Focus
-
-Backend Development
-├── Python
-├── FastAPI / Flask / Django
-├── REST APIs
-├── Authentication & JWT
-└── Database-driven systems
-
-AI / ML
-├── Applied Machine Learning
-├── Classification
-├── Recommendation Systems
-├── NLP / TF-IDF
-└── OCR Pipelines
-
-</td>
-<td width="50%" valign="top">
-
-🧠 How I Build
-
-Idea
- ↓
-Understand the problem
- ↓
-Design the solution
- ↓
-Build the backend
- ↓
-Connect data & services
- ↓
-Test & improve
- ↓
-Ship something useful 🚀
-
-<p>
-<strong>Mindset:</strong> learn by building, improve through practice,
-and keep turning knowledge into real projects.
-</p>
-
-</td>
-</tr>
-</table>
-
-👋 A Little More About Me
-
-const aalyan = {
-  role: "Software Engineering Student",
-  university: "Air University, Kamra",
-  location: "Attock, Punjab, Pakistan 🇵🇰",
-  cgpa: 3.69,
-
-  interests: [
-    "Backend Engineering",
-    "Artificial Intelligence & Machine Learning",
-    "Full-Stack Application Development",
-    "Building Practical Software Solutions",
-  ],
-
-  toolkit: {
-    languages: ["C++", "Java", "C#", "Python"],
-    frontend: ["JavaScript"],
-    backend: ["FastAPI", "Flask", "Django", "Node.js / Express"],
-    databases: ["MySQL", "PostgreSQL", "Firebase"],
-    orm: ["SQLAlchemy"],
-    infrastructure: ["Docker"],
-  },
-
-  builtSoFar: [
-    "Aalyan Software House — full-stack application",
-    "DecodeLabs AI Internship Tasks",
-    "AI/ML internship labs and applied projects",
-  ],
-
-  currently: "Growing as a software engineer through projects & internships",
-
-  openTo: [
-    "Software Engineering Internships",
-    "Backend Development Opportunities",
-    "Collaborative AI / ML Projects",
-  ],
-
-  philosophy:
-    "Build it. Understand it. Improve it. 🚀",
-} as const;
-
-<div align="center">
-
-I don't just want to learn technologies — I want to understand how to use them to solve real problems.
-
-</div>
-
-🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-🧩 DecodeLabs_Tasks
-
-AI internship work completed under DecodeLabs Batch 2026, covering practical beginner-to-intermediate AI/ML tasks including a rule-based chatbot, KNN Iris classifier, TF-IDF technology recommender, and OCR pipeline.
-
-<p align="center">
-  <a href="https://github.com/AalyanShoukatKhan/DecodeLabs_Tasks">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AalyanShoukatKhan&repo=DecodeLabs_Tasks&theme=transparent&bg_color=0D1117&border_color=38BDF8&title_color=38BDF8&text_color=C9D1D9&icon_color=06B6D4" alt="DecodeLabs Tasks repository card"/>
-  </a>
-</p>
-
-Layer
-
-Technology
-
-Language
-
-Python
-
-AI / ML
-
-Rule-based logic, KNN, TF-IDF, OCR
-
-<p align="center">
-  <a href="https://github.com/AalyanShoukatKhan/DecodeLabs_Tasks">
-    <img src="https://img.shields.io/badge/VIEW%20CODE-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="View DecodeLabs code"/>
-  </a>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-🤖 AIML-Internship-AalyanShoukatKhan
-
-Repository for AI/ML internship work containing labs, assignments, experiments, and hands-on applied machine-learning projects.
-
-<p align="center">
-  <a href="https://github.com/AalyanShoukatKhan/AIML-Internship-AalyanShoukatKhan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AalyanShoukatKhan&repo=AIML-Internship-AalyanShoukatKhan&theme=transparent&bg_color=0D1117&border_color=38BDF8&title_color=38BDF8&text_color=C9D1D9&icon_color=06B6D4" alt="AI ML Internship repository card"/>
-  </a>
-</p>
-
-Layer
-
-Technology
-
-Language
-
-Python
-
-AI / ML
-
-Jupyter notebooks, applied ML labs
-
-<p align="center">
-  <a href="https://github.com/AalyanShoukatKhan/AIML-Internship-AalyanShoukatKhan">
-    <img src="https://img.shields.io/badge/VIEW%20CODE-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="View AI ML internship code"/>
-  </a>
-</p>
-
-</td>
-</tr>
-</table>
-
-🛠️ Technical Stack
-
-<div align="center">
-
-Languages
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cpp,java,cs,python" alt="C++, Java, C Sharp, Python"/>
-</a>
-
-Frontend
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/>
-</a>
-
-Backend & Infrastructure
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,express,docker" alt="FastAPI, Flask, Django, Node.js, Express, Docker"/>
-</a>
-
-AI & Databases
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase" alt="MySQL, PostgreSQL, Firebase"/>
-</a>
-
-<p>
-  <sub>Also experienced with <strong>SQLAlchemy</strong> for ORM-based database access.</sub>
-</p>
-
-</div>
-
-📊 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/AalyanShoukatKhan">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AalyanShoukatKhan&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent&bg_color=0D1117&border_color=38BDF8&title_color=38BDF8&text_color=C9D1D9&icon_color=06B6D4" alt="Aalyan's GitHub statistics"/>
-</a>
-<a href="https://github.com/AalyanShoukatKhan">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AalyanShoukatKhan&layout=compact&langs_count=8&theme=transparent&bg_color=0D1117&border_color=38BDF8&title_color=38BDF8&text_color=C9D1D9&icon_color=06B6D4" alt="Aalyan's top languages"/>
+  <img src="https://img.shields.io/badge/OPEN%20TO%20SOFTWARE%20ENGINEERING%20INTERNSHIPS-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Open to software engineering internships"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/AalyanShoukatKhan">
-  <img src="https://streak-stats.demolab.com/?user=AalyanShoukatKhan&theme=transparent&background=0D1117&border=38BDF8&ring=38BDF8&fire=06B6D4&currStreakLabel=38BDF8&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Aalyan's GitHub streak"/>
+  <img src="https://img.shields.io/github/followers/AalyanShoukatKhan?label=Followers&style=flat-square&color=0EA5E9&labelColor=0F172A" alt="GitHub followers"/>
+</a>
+&nbsp;
+<a href="https://github.com/AalyanShoukatKhan?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-View%20Projects-1E40AF?style=flat-square&logo=github&logoColor=white" alt="View GitHub repositories"/>
+</a>
+&nbsp;
+<a href="https://komarev.com/ghpvc/?username=AalyanShoukatKhan">
+  <img src="https://komarev.com/ghpvc/?username=AalyanShoukatKhan&style=flat-square&color=06B6D4&label=Profile+Views" alt="GitHub profile views"/>
 </a>
 
 </div>
 
-🏆 GitHub Trophies
+About Me
+
+Software Engineering student focused on backend development, practical AI/ML, and building software that solves real problems.
+
+I'm Aalyan Shoukat Khan, a BS Software Engineering student at Air University, Kamra. I learn primarily by building: designing APIs, working with databases, experimenting with machine learning, and turning ideas into usable applications.
+
+At a glance
+
+
+
+
+
+Education
+
+BS Software Engineering — Air University, Kamra
+
+Current direction
+
+Backend Engineering + AI/ML
+
+Primary language
+
+Python
+
+Backend focus
+
+FastAPI, Flask, Django, Node.js / Express
+
+Data
+
+MySQL, PostgreSQL, Firebase, SQLAlchemy
+
+Development
+
+APIs, authentication, databases, application architecture
+
+Open to
+
+Software Engineering Internships · Backend Roles · AI/ML Collaboration
+
+What I care about
+
+Build → Understand → Improve → Ship
+
+I don't want to collect technologies just for the sake of listing them. My goal is to understand how systems work, apply that knowledge to real projects, and continuously improve the quality of what I build.
+
+Current Focus
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+Backend Engineering
+
+Python development
+
+REST API design
+
+FastAPI / Flask / Django
+
+Authentication & JWT
+
+Database integration
+
+SQLAlchemy / ORM workflows
+
+</td>
+<td width="33%" valign="top">
+
+AI / Machine Learning
+
+Applied machine learning
+
+Classification
+
+Recommendation systems
+
+NLP / TF-IDF
+
+OCR pipelines
+
+Practical experimentation
+
+</td>
+<td width="33%" valign="top">
+
+Software Building
+
+Full-stack applications
+
+Database-driven systems
+
+Clean project structure
+
+Git & GitHub workflows
+
+Docker fundamentals
+
+Learning through real projects
+
+</td>
+</tr>
+</table>
+
+Featured Work
+
+01 · DecodeLabs_Tasks
+
+Applied AI/ML internship work covering multiple practical tasks: a rule-based chatbot, KNN Iris classifier, TF-IDF technology recommender, and an OCR pipeline.
+
+Stack: Python · KNN · TF-IDF · OCR
+
+<p>
+<a href="https://github.com/AalyanShoukatKhan/DecodeLabs_Tasks">
+  <img src="https://img.shields.io/badge/Repository-View%20on%20GitHub-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Open DecodeLabs Tasks repository"/>
+</a>
+</p>
+
+02 · AIML-Internship-AalyanShoukatKhan
+
+A dedicated repository for AI/ML internship work, including labs, assignments, notebooks, experiments, and applied machine-learning practice.
+
+Stack: Python · Jupyter · Machine Learning
+
+<p>
+<a href="https://github.com/AalyanShoukatKhan/AIML-Internship-AalyanShoukatKhan">
+  <img src="https://img.shields.io/badge/Repository-View%20on%20GitHub-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Open AI ML internship repository"/>
+</a>
+</p>
+
+Technical Stack
+
+<div align="center">
+
+Languages
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,cs,js" alt="Python, C++, Java, C Sharp and JavaScript"/>
+
+Backend & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,express,docker" alt="FastAPI, Flask, Django, Node.js, Express and Docker"/>
+
+Databases & Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,git,github,vscode" alt="MySQL, PostgreSQL, Firebase, Git, GitHub and Visual Studio Code"/>
+
+<br/>
+
+<sub><strong>ORM:</strong> SQLAlchemy  ·  <strong>AI/ML:</strong> Applied Python-based machine learning workflows</sub>
+
+</div>
+
+Experience & Learning
+
+Program / Organization
+
+Focus
+
+Nextpak Agile Solutions
+
+Backend Development Internship
+
+GETWEBMAKER
+
+Web Development Internship
+
+Zynvex Solutions
+
+AI / Machine Learning Internship
+
+Decode Labs
+
+Artificial Intelligence Internship
+
+CodeAlpha
+
+C++ Programming Internship
+
+GitHub
 
 <div align="center">
 
 <a href="https://github.com/AalyanShoukatKhan">
-  <img src="https://github-profile-trophy.vercel.app/?username=AalyanShoukatKhan&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub trophies"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AalyanShoukatKhan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=06B6D4&rank_icon=github&include_all_commits=true&count_private=true" alt="Aalyan's GitHub statistics" height="170"/>
+</a>
+&nbsp;
+<a href="https://github.com/AalyanShoukatKhan">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AalyanShoukatKhan&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=06B6D4&langs_count=6" alt="Aalyan's most used programming languages" height="170"/>
 </a>
 
-</div>
-
-📈 Contribution Activity
-
-<div align="center">
+<br/><br/>
 
 <a href="https://github.com/AalyanShoukatKhan">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AalyanShoukatKhan&bg_color=0D1117&color=C9D1D9&line=38BDF8&point=06B6D4&area=true&area_color=1E3A8A&hide_border=true" alt="Aalyan's contribution activity graph" width="100%"/>
+  <img src="https://streak-stats.demolab.com/?user=AalyanShoukatKhan&theme=transparent&background=0D1117&hide_border=true&ring=38BDF8&fire=06B6D4&currStreakLabel=38BDF8&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Aalyan's GitHub contribution streak"/>
 </a>
 
 </div>
 
-🤝 Connect With Me
+Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/aalyan-shoukat-khan-04b518374/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Aalyan on LinkedIn"/>
 </a>
 <a href="mailto:aalyanofficial39@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Aalyan"/>
 </a>
 <a href="https://github.com/AalyanShoukatKhan">
-  <img src="https://img.shields.io/badge/GitHub-1E40AF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow-1E40AF?style=for-the-badge&logo=github&logoColor=white" alt="Follow Aalyan on GitHub"/>
 </a>
 
 </div>
@@ -295,8 +248,14 @@ AI & Databases
 
 <div align="center">
 
+Interested in building something useful together?
+
+<a href="mailto:aalyanofficial39@gmail.com"><strong>Let's connect →</strong></a>
+
+<br/><br/>
+
 <a href="https://github.com/AalyanShoukatKhan">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1E3A8A,100:0F172A&height=140&section=footer" alt="Footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,45:1E3A8A,100:0F172A&height=130&section=footer" alt="Profile footer" width="100%"/>
 </a>
 
 </div>
