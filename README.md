@@ -167,13 +167,26 @@ A dedicated repository for AI/ML internship work — labs, assignments, notebook
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AalyanShoukatKhan&show_icons=true&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=0EA5E9&text_color=C9D1D9" alt="Aalyan's GitHub statistics" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AalyanShoukatKhan&layout=compact&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=C9D1D9" alt="Aalyan's most used programming languages" height="165"/>
+<table>
+<tr>
+<td width="50%" align="center">
+<a href="https://github.com/AalyanShoukatKhan">
+  <img src="https://i.postimg.cc/43gjf99Z/Aalyan-Git-Hub-Stats-Verified.png" alt="Aalyan's GitHub statistics" width="100%"/>
+</a>
+</td>
+<td width="50%" align="center">
+<a href="https://github.com/AalyanShoukatKhan">
+  <img src="https://i.postimg.cc/D09Bx9rY/8fddce0f-e55b-4230-bd2e-1b895bad4c74.png" alt="Aalyan's most used programming languages" width="100%"/>
+</a>
+</td>
+</tr>
+</table>
 
-<br/><br/>
+<br/>
 
-<img src="https://streak-stats.demolab.com/?user=AalyanShoukatKhan&hide_border=true&background=0F172A&ring=0EA5E9&fire=38BDF8&currStreakLabel=38BDF8" alt="Aalyan's GitHub contribution streak"/>
+<a href="https://github.com/AalyanShoukatKhan">
+  <img src="https://i.postimg.cc/dVxmnPJN/Chat-GPT-Image-Sep-11-2026-04-30-25-PM.png" alt="Aalyan's GitHub contribution streak" width="60%"/>
+</a>
 
 </div>
 
