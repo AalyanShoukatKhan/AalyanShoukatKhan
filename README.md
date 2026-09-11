@@ -173,7 +173,7 @@ A dedicated repository for AI/ML internship work — labs, assignments, notebook
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AalyanShoukatKhan&hide_border=true&background=0F172A&ring=0EA5E9&fire=38BDF8&currStreakLabel=38BDF8" alt="Aalyan's GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com/?user=AalyanShoukatKhan&hide_border=true&background=0F172A&ring=0EA5E9&fire=38BDF8&currStreakLabel=38BDF8" alt="Aalyan's GitHub contribution streak"/>
 
 </div>
 
