@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/AalyanShoukatKhan">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1E3A8A,100:06B6D4&height=210&section=header&text=Aalyan%20Shoukat%20Khan&fontSize=44&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineering%20%7C%20Backend%20%26%20AI%2FML&descAlignY=56&descSize=17&animation=twinkling" alt="Aalyan Shoukat Khan — Software Engineering, Backend and AI/ML" width="100%"/>
+  <img src="https://i.postimg.cc/htpVvFXN/Chat-GPT-Image-Sep-11-2026-04-14-22-PM.png" width="100%"/>
 </a>
 
 <a href="https://readme-typing-svg.demolab.com/">
