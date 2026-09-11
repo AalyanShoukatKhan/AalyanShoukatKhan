@@ -4,11 +4,15 @@
   <img src="https://i.postimg.cc/htpVvFXN/Chat-GPT-Image-Sep-11-2026-04-14-22-PM.png" width="100%"/>
 </a>
 
+<h1>Aalyan Shoukat Khan</h1>
+
 <a href="https://readme-typing-svg.demolab.com/">
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Python+%7C+FastAPI+%7C+Backend+Development;AI%2FML+%7C+Applied+Machine+Learning;APIs+%7C+Databases+%7C+Practical+Software;Open+to+Software+Engineering+Internships" alt="Animated introduction"/>
 </a>
 
-<br/>
+<sub>BS Software Engineering @ Air University, Kamra · 5th Semester Completed</sub>
+
+<br/><br/>
 
 <a href="https://github.com/AalyanShoukatKhan">
   <img src="https://img.shields.io/badge/OPEN%20TO%20SOFTWARE%20ENGINEERING%20INTERNSHIPS-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Open to software engineering internships"/>
@@ -30,185 +34,136 @@
 
 </div>
 
-About Me
+<br/>
 
-Software Engineering student focused on backend development, practical AI/ML, and building software that solves real problems.
+## About Me
 
-I'm Aalyan Shoukat Khan, a BS Software Engineering student at Air University, Kamra. I learn primarily by building: designing APIs, working with databases, experimenting with machine learning, and turning ideas into usable applications.
+I'm a Software Engineering student at Air University, Kamra, working through my degree by building things rather than just studying theory — designing APIs, modeling databases, and experimenting with applied machine learning.
 
-At a glance
+My primary focus is backend development in **Python**, with a growing base in **C++**, **Java**, and **C#**, and hands-on work with **MySQL** and **PostgreSQL**. Alongside coursework, I've completed multiple internships spanning backend engineering, web development, and applied AI/ML, where I turned academic concepts into working systems — chatbots, classifiers, recommenders, and OCR pipelines.
 
+I'm still early in my engineering journey, and I'm approaching it deliberately: build something, understand why it works, improve it, then move on to the next problem.
 
+<br/>
 
+## Current Focus
 
-
-Education
-
-BS Software Engineering — Air University, Kamra
-
-Current direction
-
-Backend Engineering + AI/ML
-
-Primary language
-
-Python
-
-Backend focus
-
-FastAPI, Flask, Django, Node.js / Express
-
-Data
-
-MySQL, PostgreSQL, Firebase, SQLAlchemy
-
-Development
-
-APIs, authentication, databases, application architecture
-
-Open to
-
-Software Engineering Internships · Backend Roles · AI/ML Collaboration
-
-What I care about
-
-Build → Understand → Improve → Ship
-
-I don't want to collect technologies just for the sake of listing them. My goal is to understand how systems work, apply that knowledge to real projects, and continuously improve the quality of what I build.
-
-Current Focus
-
-<table>
+<table width="100%">
 <tr>
 <td width="33%" valign="top">
 
-Backend Engineering
+**Building**
 
-Python development
-
-REST API design
-
-FastAPI / Flask / Django
-
-Authentication & JWT
-
-Database integration
-
-SQLAlchemy / ORM workflows
+- Backend systems in Python
+- REST APIs with FastAPI / Flask
+- Database-driven applications
+- Applied AI/ML experiments
 
 </td>
 <td width="33%" valign="top">
 
-AI / Machine Learning
+**Learning**
 
-Applied machine learning
-
-Classification
-
-Recommendation systems
-
-NLP / TF-IDF
-
-OCR pipelines
-
-Practical experimentation
+- Advanced Python & OOP
+- PostgreSQL & relational design
+- Data Structures & Algorithms
+- Software architecture fundamentals
 
 </td>
 <td width="33%" valign="top">
 
-Software Building
+**Exploring**
 
-Full-stack applications
-
-Database-driven systems
-
-Clean project structure
-
-Git & GitHub workflows
-
-Docker fundamentals
-
-Learning through real projects
+- Docker & containerization
+- Authentication & JWT
+- NLP / TF-IDF techniques
+- Deployment workflows
 
 </td>
 </tr>
 </table>
 
-Featured Work
+<br/>
 
-01 · DecodeLabs_Tasks
+## Tech Stack
 
-Applied AI/ML internship work covering multiple practical tasks: a rule-based chatbot, KNN Iris classifier, TF-IDF technology recommender, and an OCR pipeline.
-
-Stack: Python · KNN · TF-IDF · OCR
-
-<p>
-<a href="https://github.com/AalyanShoukatKhan/DecodeLabs_Tasks">
-  <img src="https://img.shields.io/badge/Repository-View%20on%20GitHub-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Open DecodeLabs Tasks repository"/>
-</a>
-</p>
-
-02 · AIML-Internship-AalyanShoukatKhan
-
-A dedicated repository for AI/ML internship work, including labs, assignments, notebooks, experiments, and applied machine-learning practice.
-
-Stack: Python · Jupyter · Machine Learning
-
-<p>
-<a href="https://github.com/AalyanShoukatKhan/AIML-Internship-AalyanShoukatKhan">
-  <img src="https://img.shields.io/badge/Repository-View%20on%20GitHub-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Open AI ML internship repository"/>
-</a>
-</p>
-
-Technical Stack
-
-<div align="center">
-
-Languages
+**Languages**
 
 <img src="https://skillicons.dev/icons?i=python,cpp,java,cs,js" alt="Python, C++, Java, C Sharp and JavaScript"/>
 
-Backend & Infrastructure
+**Databases**
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,express,docker" alt="FastAPI, Flask, Django, Node.js, Express and Docker"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase" alt="MySQL, PostgreSQL and Firebase"/>
 
-Databases & Tools
+**Web & Backend**
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,git,github,vscode" alt="MySQL, PostgreSQL, Firebase, Git, GitHub and Visual Studio Code"/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,express" alt="FastAPI, Flask, Django, Node.js and Express"/>
+
+**Tools & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" alt="Git, GitHub, Visual Studio Code and Docker"/>
+
+<sub><strong>ORM:</strong> SQLAlchemy &nbsp;·&nbsp; <strong>Core concepts:</strong> OOP, Data Structures & Algorithms, REST API design, Database design</sub>
 
 <br/>
 
-<sub><strong>ORM:</strong> SQLAlchemy  ·  <strong>AI/ML:</strong> Applied Python-based machine learning workflows</sub>
+## Featured Projects
 
-</div>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-Experience & Learning
+**DecodeLabs_Tasks**
 
-Program / Organization
+Applied AI/ML internship work covering multiple practical tasks: a rule-based chatbot, a KNN Iris classifier, a TF-IDF technology recommender, and an OCR pipeline.
 
-Focus
+**Tech:** Python · KNN · TF-IDF · OCR
+**Focus:** Applied Machine Learning
 
-Nextpak Agile Solutions
+<a href="https://github.com/AalyanShoukatKhan/DecodeLabs_Tasks">
+  <img src="https://img.shields.io/badge/Repository-View%20on%20GitHub-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Open DecodeLabs Tasks repository"/>
+</a>
 
-Backend Development Internship
+</td>
+<td width="50%" valign="top">
 
-GETWEBMAKER
+**AIML-Internship-AalyanShoukatKhan**
 
-Web Development Internship
+A dedicated repository for AI/ML internship work — labs, assignments, notebooks, and applied machine-learning practice.
 
-Zynvex Solutions
+**Tech:** Python · Jupyter · Machine Learning
+**Focus:** AI/ML Foundations
 
-AI / Machine Learning Internship
+<a href="https://github.com/AalyanShoukatKhan/AIML-Internship-AalyanShoukatKhan">
+  <img src="https://img.shields.io/badge/Repository-View%20on%20GitHub-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Open AI ML internship repository"/>
+</a>
 
-Decode Labs
+</td>
+</tr>
+</table>
 
-Artificial Intelligence Internship
+<br/>
 
-CodeAlpha
+## Experience & Learning
 
-C++ Programming Internship
+| Program / Organization | Focus |
+|---|---|
+| Nextpak Agile Solutions | Backend Development Internship |
+| GETWEBMAKER | Web Development Internship |
+| Zynvex Solutions | AI / Machine Learning Internship |
+| Decode Labs | Artificial Intelligence Internship |
+| CodeAlpha | C++ Programming Internship |
 
-GitHub
+<br/>
+
+## Education
+
+**BS Software Engineering** — Air University, Kamra
+*5th semester completed*
+
+<br/>
+
+## GitHub Analytics
 
 <div align="center">
 
@@ -228,7 +183,9 @@ GitHub
 
 </div>
 
-Connect
+<br/>
+
+## Connect
 
 <div align="center">
 
@@ -248,7 +205,7 @@ Connect
 
 <div align="center">
 
-Interested in building something useful together?
+Building software, learning continuously, and turning academic knowledge into working systems.
 
 <a href="mailto:aalyanofficial39@gmail.com"><strong>Let's connect →</strong></a>
 
