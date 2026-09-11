@@ -223,7 +223,7 @@ GitHub
 <br/><br/>
 
 <a href="https://github.com/AalyanShoukatKhan">
-  <img src="https://streak-stats.demolab.com/?user=AalyanShoukatKhan&theme=transparent&background=0D1117&hide_border=true&ring=38BDF8&fire=06B6D4&currStreakLabel=38BDF8&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Aalyan's GitHub contribution streak"/>
+  <img src="https://i.postimg.cc/dVxmnPJN/Chat-GPT-Image-Sep-11-2026-04-30-25-PM.png" alt="Aalyan's GitHub contribution streak"/>
 </a>
 
 </div>
