@@ -213,7 +213,7 @@ GitHub
 <div align="center">
 
 <a href="https://github.com/AalyanShoukatKhan">
-  <img src="https://github-readme-stats.vercel.app/api?username=AalyanShoukatKhan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=06B6D4&rank_icon=github&include_all_commits=true&count_private=true" alt="Aalyan's GitHub statistics" height="170"/>
+  <img src="https://i.postimg.cc/43gjf99Z/Aalyan-Git-Hub-Stats-Verified.png" alt="Aalyan's GitHub statistics" height="170"/>
 </a>
 &nbsp;
 <a href="https://github.com/AalyanShoukatKhan">
