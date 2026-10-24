@@ -59,15 +59,15 @@ def build_sections():
             pass
     total = sum(langs.values())
 
-    parts = [f"**{profile['public_repos']}** public repositories",
-             f"**{profile['followers']}** followers"]
+    parts = [f"📦 **{profile['public_repos']}** public repositories",
+             f"👥 **{profile['followers']}** followers"]
     contrib = contributions_last_year()
     if contrib is not None:
-        parts.append(f"**{contrib}** contributions in the last year")
+        parts.append(f"🔥 **{contrib}** contributions in the last year")
     stats = " · ".join(parts)
     if total:
         mix = " ".join(f"`{n}` {round(b * 100 / total)}%" for n, b in langs.most_common(5))
-        stats += f"\n\nCode by language across my public repositories: {mix}  \n"
+        stats += f"\n\n💻 Code by language across my public repositories: {mix}  \n"
         stats += "<sub>Share of code by size, not a measure of skill.</sub>"
 
     lines = []
