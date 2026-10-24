@@ -67,11 +67,23 @@ A hostel operations platform for student records, room allocation, attendance, m
 <sub>This section is refreshed automatically every day by a GitHub Action in this repository.</sub>
 
 <!--START_SECTION:stats-->
+📦 **9** public repositories · 👥 **3** followers · 🔥 **46** contributions in the last year
+
+💻 Code by language across my public repositories: `Python` 54% `C++` 33% `HTML` 12% `PowerShell` 1%  
+<sub>Share of code by size, not a measure of skill.</sub>
 <!--END_SECTION:stats-->
 
 **🕒 Recently updated**
 
 <!--START_SECTION:repos-->
+- [Lab5_CI_CD_Project](https://github.com/AalyanShoukatKhan/Lab5_CI_CD_Project)  
+  <sub>Python · updated 2026-10-21</sub>
+- [Daily_Technology_AI_Trends_Intelligence](https://github.com/AalyanShoukatKhan/Daily_Technology_AI_Trends_Intelligence) — Automated AI and technology intelligence platform that collects news from RSS feeds and APIs, categorizes emerging trends, generates summaries, tracks important developments, and delivers scheduled email digests using GitHub Actions.  
+  <sub>Python · updated 2026-10-21</sub>
+- [Lab4_Project](https://github.com/AalyanShoukatKhan/Lab4_Project) — SCD Lab Task 04  
+  <sub>HTML · updated 2026-10-04</sub>
+- [ASKFlow](https://github.com/AalyanShoukatKhan/ASKFlow) — A modern hostel operations platform for managing students, rooms, attendance, maintenance, and daily operations.  
+  <sub>updated 2026-09-13</sub>
 <!--END_SECTION:repos-->
 
 ## 💼 Experience & Education
