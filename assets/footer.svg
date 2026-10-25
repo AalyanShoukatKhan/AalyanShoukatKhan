@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 110" width="1200" height="110" role="img" aria-label="Aalyan Shoukat Khan – Python, Backend Development, AI and Machine Learning">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#CB8B08"/><stop offset="0.55" stop-color="#70520A"/><stop offset="1" stop-color="#17130C"/></linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#F5B301" stop-opacity="0.2"/><stop offset="0.5" stop-color="#FFD35C"/><stop offset="1" stop-color="#F5B301" stop-opacity="0.2"/></linearGradient>
+    <radialGradient id="spark"><stop offset="0" stop-color="#FFF3C4"/><stop offset="1" stop-color="#FFC83D" stop-opacity="0"/></radialGradient>
+    <clipPath id="c"><rect x="0" y="94" width="1200" height="12"/></clipPath>
+  </defs>
+  <rect width="1200" height="110" rx="14" fill="url(#bg)"/>
+  <text x="48" y="62" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="800" fill="#FFFFFF">Aalyan <tspan fill="#120D03">Shoukat Khan</tspan></text>
+  <text x="1152" y="60" text-anchor="end" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="600" fill="#FFF4D6">Python <tspan fill="#FFC83D">•</tspan> Backend <tspan fill="#FFC83D">•</tspan> AI / ML</text>
+  <rect x="0" y="99" width="1200" height="3" fill="url(#line)"/>
+  <g clip-path="url(#c)"><ellipse cx="0" cy="100.5" rx="90" ry="9" fill="url(#spark)"><animate attributeName="cx" values="0;1200;0" dur="7s" repeatCount="indefinite"/></ellipse></g>
+</svg>
